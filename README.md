@@ -220,6 +220,5 @@ if __name__ == "__main__":
 
 <h3>OUTPUT:</h3>
 
-![306545580-a7d862b7-ef5f-4b18-aed8-f1ae7a8a40d7](https://github.com/gururamu08/19AI405ExpNo1/assets/118707009/8a821e1d-fc3e-4f12-ad19-e8f02a6bb749)
-
+![image](https://github.com/kavinesh8476/19AI405ExpNo1/assets/118466561/099a9f9d-6d5b-49ca-9dc8-4259c73eb4f8)
 
